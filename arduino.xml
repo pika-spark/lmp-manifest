@@ -1,5 +1,6 @@
 <manifest>
   <include name="default.xml" />
+  <include name="ros2.xml" />	  
 
   <remote fetch="https://github.com/pika-spark" name="partner-arduino" />
 

@@ -1,0 +1,9 @@
+<manifest>
+  <remote fetch="https://github.com/ros" name="ros" />
+
+  <project name="meta-ros"
+           remote="ros"
+           revision="c5b04210d06ca3b16d4c45c2efde995cf6a2ee63"
+           path="layers/meta-ros"/>
+
+</manifest>
