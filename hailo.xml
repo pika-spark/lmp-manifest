@@ -1,0 +1,9 @@
+<manifest>
+  <remote fetch="https://github.com/hailo-ai" name="hailo-ai" />
+
+  <project name="meta-hailo"
+           remote="hailo-ai"
+           revision="676702aecba552c2f73b852810a6d7a9a70884d0"
+           path="layers/meta-hailo"/>
+
+</manifest>
